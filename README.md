@@ -4,5 +4,5 @@
 
 # 自动脚本
 
-[markdown文件图片下载到本地](<https://github.com/IgnorantCircle/skill-script/自动脚本/markdown文件图片下载到本地/自动将博客里CSDN图片下载到本地.md)
+[markdown文件图片下载到本地](https://github.com/IgnorantCircle/skill-script/自动脚本/markdown文件图片下载到本地/自动将博客里CSDN图片下载到本地.md)
 
